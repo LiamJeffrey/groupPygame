@@ -13,7 +13,7 @@ pygame.mixer.init()
 windowSize = (640, 480)
 screen = pygame.display.set_mode(windowSize, DOUBLEBUF)
 
-helloWorld = pygame.image.load("img/link.png")
+helloWorld = pygame.image.load("M:\Semester 2 Group Project\groupPygame\link.png")
 helloWorldSize = helloWorld.get_size()
 
 running = 1
